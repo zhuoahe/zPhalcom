@@ -1,0 +1,16 @@
+{
+  "name": "zah/zphalcon",
+  "type": "project",
+  "authors": [
+    {
+      "name":  "zah",
+      "email": "1103988003@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "leafo/scssphp": "^0.7.4"
+  }
+}

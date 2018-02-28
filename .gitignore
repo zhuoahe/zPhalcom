@@ -1,0 +1,5 @@
+*/config/config.dev.ini
+vendor
+test
+.idea
+output
