@@ -6,4 +6,4 @@
  * Time: 上午 8:59
  */
 require  "../../common/init.php";
-\common\base\Application::run(__DIR__);
+\common\base\Web::run(__DIR__);
